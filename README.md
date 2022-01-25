@@ -1,5 +1,7 @@
 # ClementVernier_6_24012022
 
-Sur le /front-end : npm install puis npm start
+1) git clone https://github.com/clemvrn/ClementVernier_6_24012022.git
 
-Sur le /back-end : npm install puis nodemon server
+2) sur le /front-end : npm install puis npm start
+
+3) sur le /back-end : npm install puis nodemon server
